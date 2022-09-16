@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "NFCOA": "User Id=NFCOA;Password=NFCOA2020;Data Source=(DESCRIPTION =(ADDRESS = (PROTOCOL = TCP)(HOST = 10.63.200.194)(PORT = 1521))(CONNECT_DATA =(SERVER = DEDICATED)(SERVICE_NAME = orcl)))"
+  }
+}

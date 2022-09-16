@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Project1.Application</name>
+    </assembly>
+    <members>
+        <member name="T:Project1.Application.MyAppService">
+            <summary>
+            自定義控制器
+            </summary>
+        </member>
+        <member name="M:Project1.Application.MyAppService.GetMyDesc">
+            <summary>
+            取得我的DESC
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Project1.Application.SystemAppService">
+            <summary>
+            系统服务接口
+            </summary>
+        </member>
+        <member name="M:Project1.Application.SystemAppService.GetDescription">
+            <summary>
+            获取系统描述
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information"
+
+    },
+    "File": {
+      "FileName": "logs/application.log",
+      "Append": true,
+      "MinimumLevel": "Information",
+      "FileSizeLimitBytes": 102400000,
+      "MaxRollingFiles": 0
+    }
+  }
+}
